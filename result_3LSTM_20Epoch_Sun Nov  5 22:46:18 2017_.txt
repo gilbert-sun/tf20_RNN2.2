@@ -1,0 +1,2 @@
+
+Step 0, Minibatch Loss= 1928.194580, Training Accuracy= 0.055417

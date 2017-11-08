@@ -1,0 +1,6 @@
+const self = this;
+foo.forEach（（）=> {
+self.xxx;
+}）;
+他媽的...
+好吧這個比較進階不能怪你，ES6 的 arrow function 實現了真正的 lambda，也就是可以直接 access 到有效的 this。要用老招 const self = this 回去用 function () { } 就可以了。v

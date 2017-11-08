@@ -1,0 +1,1002 @@
+
+Step 0, Minibatch Loss= 1198.629761, Training Accuracy= 0.086555
+
+Step 20, Minibatch Loss= 87.526840, Training Accuracy= 0.572269
+
+Step 40, Minibatch Loss= 21.821011, Training Accuracy= 0.712605
+
+Step 60, Minibatch Loss= 6.767591, Training Accuracy= 0.894958
+
+Step 80, Minibatch Loss= 3.571925, Training Accuracy= 0.981933
+
+Step 100, Minibatch Loss= 2.567581, Training Accuracy= 0.982353
+
+Step 120, Minibatch Loss= 2.033606, Training Accuracy= 0.982353
+
+Step 140, Minibatch Loss= 1.965370, Training Accuracy= 0.982353
+
+Step 160, Minibatch Loss= 1.853219, Training Accuracy= 0.982353
+
+Step 180, Minibatch Loss= 1.455243, Training Accuracy= 0.982353
+
+Step 200, Minibatch Loss= 1.312613, Training Accuracy= 0.982353
+
+Step 220, Minibatch Loss= 1.098265, Training Accuracy= 0.982353
+
+Step 240, Minibatch Loss= 1.211662, Training Accuracy= 0.982353
+
+Step 260, Minibatch Loss= 1.405940, Training Accuracy= 0.982353
+
+Step 280, Minibatch Loss= 1.244424, Training Accuracy= 0.982353
+
+Step 300, Minibatch Loss= 1.254662, Training Accuracy= 0.982353
+
+Step 320, Minibatch Loss= 1.605776, Training Accuracy= 0.982353
+
+Step 340, Minibatch Loss= 1.597459, Training Accuracy= 0.982353
+
+Step 360, Minibatch Loss= 1.775995, Training Accuracy= 0.982353
+
+Step 380, Minibatch Loss= 0.943898, Training Accuracy= 0.982353
+
+Step 400, Minibatch Loss= 1.497321, Training Accuracy= 0.982353
+
+Step 420, Minibatch Loss= 1.540242, Training Accuracy= 0.982353
+
+Step 440, Minibatch Loss= 1.296975, Training Accuracy= 0.982353
+
+Step 460, Minibatch Loss= 1.106039, Training Accuracy= 0.982353
+
+Step 480, Minibatch Loss= 1.211785, Training Accuracy= 0.982353
+
+Step 500, Minibatch Loss= 1.026402, Training Accuracy= 0.982353
+
+Step 520, Minibatch Loss= 1.270685, Training Accuracy= 0.982353
+
+Step 540, Minibatch Loss= 1.576923, Training Accuracy= 0.982353
+
+Step 560, Minibatch Loss= 1.453309, Training Accuracy= 0.982353
+
+Step 580, Minibatch Loss= 1.076824, Training Accuracy= 0.982353
+
+Step 600, Minibatch Loss= 1.393566, Training Accuracy= 0.982353
+
+Step 620, Minibatch Loss= 1.504513, Training Accuracy= 0.982353
+
+Step 640, Minibatch Loss= 1.609860, Training Accuracy= 0.982353
+
+Step 660, Minibatch Loss= 1.130345, Training Accuracy= 0.982353
+
+Step 680, Minibatch Loss= 1.487116, Training Accuracy= 0.982353
+
+Step 700, Minibatch Loss= 1.371502, Training Accuracy= 0.982353
+
+Step 720, Minibatch Loss= 0.881108, Training Accuracy= 0.982353
+
+Step 740, Minibatch Loss= 1.052768, Training Accuracy= 0.982353
+
+Step 760, Minibatch Loss= 1.290939, Training Accuracy= 0.982353
+
+Step 780, Minibatch Loss= 1.235664, Training Accuracy= 0.982353
+
+Step 800, Minibatch Loss= 1.514396, Training Accuracy= 0.982353
+
+Step 820, Minibatch Loss= 1.282818, Training Accuracy= 0.982353
+
+Step 840, Minibatch Loss= 1.462547, Training Accuracy= 0.982353
+
+Step 860, Minibatch Loss= 1.505050, Training Accuracy= 0.982353
+
+Step 880, Minibatch Loss= 1.221292, Training Accuracy= 0.982353
+
+Step 900, Minibatch Loss= 1.363985, Training Accuracy= 0.982353
+
+Step 920, Minibatch Loss= 1.133415, Training Accuracy= 0.982353
+
+Step 940, Minibatch Loss= 1.478050, Training Accuracy= 0.982353
+
+Step 960, Minibatch Loss= 1.087036, Training Accuracy= 0.982353
+
+Step 980, Minibatch Loss= 1.299796, Training Accuracy= 0.982353
+
+Step 1000, Minibatch Loss= 1.350638, Training Accuracy= 0.982353
+
+Step 1020, Minibatch Loss= 1.509101, Training Accuracy= 0.982353
+
+Step 1040, Minibatch Loss= 1.200330, Training Accuracy= 0.982353
+
+Step 1060, Minibatch Loss= 1.500085, Training Accuracy= 0.982353
+
+Step 1080, Minibatch Loss= 1.411409, Training Accuracy= 0.982353
+
+Step 1100, Minibatch Loss= 1.459349, Training Accuracy= 0.982353
+
+Step 1120, Minibatch Loss= 1.324590, Training Accuracy= 0.982353
+
+Step 1140, Minibatch Loss= 1.109974, Training Accuracy= 0.982353
+
+Step 1160, Minibatch Loss= 1.288258, Training Accuracy= 0.982353
+
+Step 1180, Minibatch Loss= 1.181645, Training Accuracy= 0.982353
+
+Step 1200, Minibatch Loss= 1.349352, Training Accuracy= 0.982353
+
+Step 1220, Minibatch Loss= 1.434635, Training Accuracy= 0.982353
+
+Step 1240, Minibatch Loss= 1.021507, Training Accuracy= 0.982353
+
+Step 1260, Minibatch Loss= 1.194121, Training Accuracy= 0.982353
+
+Step 1280, Minibatch Loss= 1.225896, Training Accuracy= 0.982353
+
+Step 1300, Minibatch Loss= 0.967598, Training Accuracy= 0.982353
+
+Step 1320, Minibatch Loss= 1.070273, Training Accuracy= 0.982353
+
+Step 1340, Minibatch Loss= 1.156558, Training Accuracy= 0.982353
+
+Step 1360, Minibatch Loss= 1.061345, Training Accuracy= 0.982353
+
+Step 1380, Minibatch Loss= 1.157055, Training Accuracy= 0.982353
+
+Step 1400, Minibatch Loss= 1.294722, Training Accuracy= 0.982353
+
+Step 1420, Minibatch Loss= 1.318638, Training Accuracy= 0.982353
+
+Step 1440, Minibatch Loss= 1.188251, Training Accuracy= 0.982353
+
+Step 1460, Minibatch Loss= 1.205877, Training Accuracy= 0.982353
+
+Step 1480, Minibatch Loss= 1.190614, Training Accuracy= 0.982353
+
+Step 1500, Minibatch Loss= 1.054387, Training Accuracy= 0.982353
+
+Step 1520, Minibatch Loss= 1.122178, Training Accuracy= 0.982353
+
+Step 1540, Minibatch Loss= 1.249005, Training Accuracy= 0.982353
+
+Step 1560, Minibatch Loss= 0.981328, Training Accuracy= 0.982353
+
+Step 1580, Minibatch Loss= 1.187343, Training Accuracy= 0.982353
+
+Step 1600, Minibatch Loss= 1.186298, Training Accuracy= 0.982353
+
+Step 1620, Minibatch Loss= 1.280386, Training Accuracy= 0.982353
+
+Step 1640, Minibatch Loss= 1.392069, Training Accuracy= 0.982353
+
+Step 1660, Minibatch Loss= 1.377247, Training Accuracy= 0.982353
+
+Step 1680, Minibatch Loss= 1.150930, Training Accuracy= 0.982353
+
+Step 1700, Minibatch Loss= 1.107355, Training Accuracy= 0.982353
+
+Step 1720, Minibatch Loss= 1.280529, Training Accuracy= 0.982353
+
+Step 1740, Minibatch Loss= 1.053343, Training Accuracy= 0.982353
+
+Step 1760, Minibatch Loss= 0.822241, Training Accuracy= 0.982353
+
+Step 1780, Minibatch Loss= 1.253473, Training Accuracy= 0.982353
+
+Step 1800, Minibatch Loss= 1.021530, Training Accuracy= 0.982353
+
+Step 1820, Minibatch Loss= 1.209122, Training Accuracy= 0.982353
+
+Step 1840, Minibatch Loss= 1.144343, Training Accuracy= 0.982353
+
+Step 1860, Minibatch Loss= 1.145425, Training Accuracy= 0.982353
+
+Step 1880, Minibatch Loss= 1.053069, Training Accuracy= 0.982353
+
+Step 1900, Minibatch Loss= 1.159810, Training Accuracy= 0.982353
+
+Step 1920, Minibatch Loss= 0.856626, Training Accuracy= 0.982353
+
+Step 1940, Minibatch Loss= 1.038472, Training Accuracy= 0.982353
+
+Step 1960, Minibatch Loss= 1.093906, Training Accuracy= 0.982353
+
+Step 1980, Minibatch Loss= 1.305598, Training Accuracy= 0.982353
+
+Step 2000, Minibatch Loss= 1.311196, Training Accuracy= 0.982353
+
+Step 2020, Minibatch Loss= 1.195870, Training Accuracy= 0.982353
+
+Step 2040, Minibatch Loss= 1.306283, Training Accuracy= 0.982353
+
+Step 2060, Minibatch Loss= 1.090437, Training Accuracy= 0.982353
+
+Step 2080, Minibatch Loss= 1.135331, Training Accuracy= 0.982353
+
+Step 2100, Minibatch Loss= 1.070114, Training Accuracy= 0.981933
+
+Step 2120, Minibatch Loss= 1.224280, Training Accuracy= 0.981513
+
+Step 2140, Minibatch Loss= 1.197649, Training Accuracy= 0.982353
+
+Step 2160, Minibatch Loss= 1.123883, Training Accuracy= 0.982353
+
+Step 2180, Minibatch Loss= 1.280808, Training Accuracy= 0.981933
+
+Step 2200, Minibatch Loss= 1.175213, Training Accuracy= 0.982353
+
+Step 2220, Minibatch Loss= 1.092645, Training Accuracy= 0.982353
+
+Step 2240, Minibatch Loss= 0.838028, Training Accuracy= 0.982353
+
+Step 2260, Minibatch Loss= 0.947123, Training Accuracy= 0.981933
+
+Step 2280, Minibatch Loss= 0.959080, Training Accuracy= 0.982353
+
+Step 2300, Minibatch Loss= 1.016425, Training Accuracy= 0.982353
+
+Step 2320, Minibatch Loss= 1.095239, Training Accuracy= 0.982353
+
+Step 2340, Minibatch Loss= 1.115203, Training Accuracy= 0.981933
+
+Step 2360, Minibatch Loss= 0.803644, Training Accuracy= 0.981933
+
+Step 2380, Minibatch Loss= 0.955530, Training Accuracy= 0.981933
+
+Step 2400, Minibatch Loss= 1.267973, Training Accuracy= 0.982353
+
+Step 2420, Minibatch Loss= 1.011908, Training Accuracy= 0.982353
+
+Step 2440, Minibatch Loss= 1.206798, Training Accuracy= 0.981933
+
+Step 2460, Minibatch Loss= 1.143862, Training Accuracy= 0.982353
+
+Step 2480, Minibatch Loss= 1.174614, Training Accuracy= 0.981513
+
+Step 2500, Minibatch Loss= 1.039763, Training Accuracy= 0.981513
+
+Step 2520, Minibatch Loss= 1.157457, Training Accuracy= 0.982353
+
+Step 2540, Minibatch Loss= 0.950450, Training Accuracy= 0.981933
+
+Step 2560, Minibatch Loss= 1.133573, Training Accuracy= 0.982353
+
+Step 2580, Minibatch Loss= 0.844394, Training Accuracy= 0.982353
+
+Step 2600, Minibatch Loss= 1.090255, Training Accuracy= 0.982353
+
+Step 2620, Minibatch Loss= 1.091939, Training Accuracy= 0.982353
+
+Step 2640, Minibatch Loss= 0.997690, Training Accuracy= 0.982353
+
+Step 2660, Minibatch Loss= 1.080924, Training Accuracy= 0.982353
+
+Step 2680, Minibatch Loss= 1.007282, Training Accuracy= 0.982353
+
+Step 2700, Minibatch Loss= 1.064400, Training Accuracy= 0.982353
+
+Step 2720, Minibatch Loss= 0.932216, Training Accuracy= 0.982353
+
+Step 2740, Minibatch Loss= 0.946394, Training Accuracy= 0.981933
+
+Step 2760, Minibatch Loss= 1.200873, Training Accuracy= 0.982353
+
+Step 2780, Minibatch Loss= 1.109050, Training Accuracy= 0.982353
+
+Step 2800, Minibatch Loss= 1.168941, Training Accuracy= 0.981513
+
+Step 2820, Minibatch Loss= 1.171389, Training Accuracy= 0.981933
+
+Step 2840, Minibatch Loss= 0.949258, Training Accuracy= 0.981933
+
+Step 2860, Minibatch Loss= 1.211915, Training Accuracy= 0.981933
+
+Step 2880, Minibatch Loss= 1.068316, Training Accuracy= 0.982353
+
+Step 2900, Minibatch Loss= 1.080253, Training Accuracy= 0.981933
+
+Step 2920, Minibatch Loss= 1.025798, Training Accuracy= 0.981933
+
+Step 2940, Minibatch Loss= 1.059018, Training Accuracy= 0.981933
+
+Step 2960, Minibatch Loss= 1.013643, Training Accuracy= 0.981933
+
+Step 2980, Minibatch Loss= 1.013219, Training Accuracy= 0.981933
+
+Step 3000, Minibatch Loss= 0.795603, Training Accuracy= 0.981933
+
+Step 3020, Minibatch Loss= 0.986333, Training Accuracy= 0.981933
+
+Step 3040, Minibatch Loss= 1.273056, Training Accuracy= 0.982353
+
+Step 3060, Minibatch Loss= 1.024947, Training Accuracy= 0.982353
+
+Step 3080, Minibatch Loss= 1.072258, Training Accuracy= 0.981933
+
+Step 3100, Minibatch Loss= 1.169654, Training Accuracy= 0.981513
+
+Step 3120, Minibatch Loss= 1.232506, Training Accuracy= 0.982353
+
+Step 3140, Minibatch Loss= 0.977462, Training Accuracy= 0.981933
+
+Step 3160, Minibatch Loss= 1.149261, Training Accuracy= 0.982353
+
+Step 3180, Minibatch Loss= 1.053351, Training Accuracy= 0.982353
+
+Step 3200, Minibatch Loss= 1.063676, Training Accuracy= 0.981933
+
+Step 3220, Minibatch Loss= 1.092761, Training Accuracy= 0.982353
+
+Step 3240, Minibatch Loss= 1.116552, Training Accuracy= 0.982353
+
+Step 3260, Minibatch Loss= 1.254646, Training Accuracy= 0.982353
+
+Step 3280, Minibatch Loss= 0.894213, Training Accuracy= 0.981933
+
+Step 3300, Minibatch Loss= 1.007322, Training Accuracy= 0.982353
+
+Step 3320, Minibatch Loss= 0.990894, Training Accuracy= 0.981513
+
+Step 3340, Minibatch Loss= 1.004433, Training Accuracy= 0.982353
+
+Step 3360, Minibatch Loss= 1.003150, Training Accuracy= 0.982353
+
+Step 3380, Minibatch Loss= 1.125407, Training Accuracy= 0.981933
+
+Step 3400, Minibatch Loss= 1.203632, Training Accuracy= 0.982353
+
+Step 3420, Minibatch Loss= 1.089170, Training Accuracy= 0.982353
+
+Step 3440, Minibatch Loss= 1.050356, Training Accuracy= 0.982353
+
+Step 3460, Minibatch Loss= 0.790458, Training Accuracy= 0.981933
+
+Step 3480, Minibatch Loss= 1.222448, Training Accuracy= 0.982353
+
+Step 3500, Minibatch Loss= 1.169007, Training Accuracy= 0.982353
+
+Step 3520, Minibatch Loss= 0.965614, Training Accuracy= 0.982353
+
+Step 3540, Minibatch Loss= 1.045791, Training Accuracy= 0.981933
+
+Step 3560, Minibatch Loss= 0.881452, Training Accuracy= 0.981933
+
+Step 3580, Minibatch Loss= 0.788786, Training Accuracy= 0.981933
+
+Step 3600, Minibatch Loss= 0.916588, Training Accuracy= 0.982353
+
+Step 3620, Minibatch Loss= 1.072287, Training Accuracy= 0.982353
+
+Step 3640, Minibatch Loss= 0.915352, Training Accuracy= 0.982353
+
+Step 3660, Minibatch Loss= 0.914814, Training Accuracy= 0.982353
+
+Step 3680, Minibatch Loss= 1.002777, Training Accuracy= 0.982353
+
+Step 3700, Minibatch Loss= 0.916894, Training Accuracy= 0.982353
+
+Step 3720, Minibatch Loss= 0.915856, Training Accuracy= 0.982353
+
+Step 3740, Minibatch Loss= 0.990611, Training Accuracy= 0.981933
+
+Step 3760, Minibatch Loss= 0.921575, Training Accuracy= 0.981933
+
+Step 3780, Minibatch Loss= 0.934080, Training Accuracy= 0.981933
+
+Step 3800, Minibatch Loss= 1.160488, Training Accuracy= 0.981933
+
+Step 3820, Minibatch Loss= 0.897606, Training Accuracy= 0.982353
+
+Step 3840, Minibatch Loss= 1.051632, Training Accuracy= 0.981933
+
+Step 3860, Minibatch Loss= 1.060939, Training Accuracy= 0.981933
+
+Step 3880, Minibatch Loss= 1.013069, Training Accuracy= 0.982353
+
+Step 3900, Minibatch Loss= 0.825202, Training Accuracy= 0.982353
+
+Step 3920, Minibatch Loss= 1.060295, Training Accuracy= 0.982353
+
+Step 3940, Minibatch Loss= 1.038275, Training Accuracy= 0.982353
+
+Step 3960, Minibatch Loss= 0.968832, Training Accuracy= 0.982353
+
+Step 3980, Minibatch Loss= 0.858487, Training Accuracy= 0.982353
+
+Step 4000, Minibatch Loss= 0.980969, Training Accuracy= 0.982353
+
+Step 4020, Minibatch Loss= 0.828137, Training Accuracy= 0.982353
+
+Step 4040, Minibatch Loss= 0.998872, Training Accuracy= 0.981933
+
+Step 4060, Minibatch Loss= 1.090743, Training Accuracy= 0.981933
+
+Step 4080, Minibatch Loss= 0.932249, Training Accuracy= 0.982353
+
+Step 4100, Minibatch Loss= 0.943308, Training Accuracy= 0.982353
+
+Step 4120, Minibatch Loss= 0.996228, Training Accuracy= 0.982353
+
+Step 4140, Minibatch Loss= 0.798380, Training Accuracy= 0.982353
+
+Step 4160, Minibatch Loss= 1.039528, Training Accuracy= 0.981933
+
+Step 4180, Minibatch Loss= 0.948378, Training Accuracy= 0.982353
+
+Step 4200, Minibatch Loss= 0.967813, Training Accuracy= 0.982353
+
+Step 4220, Minibatch Loss= 0.998015, Training Accuracy= 0.982353
+
+Step 4240, Minibatch Loss= 1.057339, Training Accuracy= 0.982353
+
+Step 4260, Minibatch Loss= 0.846054, Training Accuracy= 0.982353
+
+Step 4280, Minibatch Loss= 1.011093, Training Accuracy= 0.982353
+
+Step 4300, Minibatch Loss= 0.911815, Training Accuracy= 0.982353
+
+Step 4320, Minibatch Loss= 1.031451, Training Accuracy= 0.982353
+
+Step 4340, Minibatch Loss= 0.977986, Training Accuracy= 0.981933
+
+Step 4360, Minibatch Loss= 0.900882, Training Accuracy= 0.981933
+
+Step 4380, Minibatch Loss= 1.082355, Training Accuracy= 0.982353
+
+Step 4400, Minibatch Loss= 0.992123, Training Accuracy= 0.982353
+
+Step 4420, Minibatch Loss= 0.855385, Training Accuracy= 0.981933
+
+Step 4440, Minibatch Loss= 0.925612, Training Accuracy= 0.982353
+
+Step 4460, Minibatch Loss= 1.019517, Training Accuracy= 0.981933
+
+Step 4480, Minibatch Loss= 1.045236, Training Accuracy= 0.981933
+
+Step 4500, Minibatch Loss= 1.073523, Training Accuracy= 0.982353
+
+Step 4520, Minibatch Loss= 0.873883, Training Accuracy= 0.981933
+
+Step 4540, Minibatch Loss= 1.139600, Training Accuracy= 0.981513
+
+Step 4560, Minibatch Loss= 0.948379, Training Accuracy= 0.981933
+
+Step 4580, Minibatch Loss= 0.817124, Training Accuracy= 0.982353
+
+Step 4600, Minibatch Loss= 0.802618, Training Accuracy= 0.982353
+
+Step 4620, Minibatch Loss= 1.021217, Training Accuracy= 0.982353
+
+Step 4640, Minibatch Loss= 1.037258, Training Accuracy= 0.981513
+
+Step 4660, Minibatch Loss= 1.098935, Training Accuracy= 0.981513
+
+Step 4680, Minibatch Loss= 1.005432, Training Accuracy= 0.981933
+
+Step 4700, Minibatch Loss= 0.901149, Training Accuracy= 0.982353
+
+Step 4720, Minibatch Loss= 1.105491, Training Accuracy= 0.981513
+
+Step 4740, Minibatch Loss= 0.973051, Training Accuracy= 0.982353
+
+Step 4760, Minibatch Loss= 0.973453, Training Accuracy= 0.982353
+
+Step 4780, Minibatch Loss= 0.839172, Training Accuracy= 0.981933
+
+Step 4800, Minibatch Loss= 0.904580, Training Accuracy= 0.982773
+
+Step 4820, Minibatch Loss= 1.058420, Training Accuracy= 0.981933
+
+Step 4840, Minibatch Loss= 0.924292, Training Accuracy= 0.982773
+
+Step 4860, Minibatch Loss= 0.822542, Training Accuracy= 0.982773
+
+Step 4880, Minibatch Loss= 1.061015, Training Accuracy= 0.981513
+
+Step 4900, Minibatch Loss= 0.888450, Training Accuracy= 0.982353
+
+Step 4920, Minibatch Loss= 0.978781, Training Accuracy= 0.982773
+
+Step 4940, Minibatch Loss= 0.973650, Training Accuracy= 0.981513
+
+Step 4960, Minibatch Loss= 1.033395, Training Accuracy= 0.982353
+
+Step 4980, Minibatch Loss= 0.919321, Training Accuracy= 0.982353
+
+Step 5000, Minibatch Loss= 0.909402, Training Accuracy= 0.981933
+
+Step 5020, Minibatch Loss= 0.899928, Training Accuracy= 0.982353
+
+Step 5040, Minibatch Loss= 0.748040, Training Accuracy= 0.982353
+
+Step 5060, Minibatch Loss= 0.963333, Training Accuracy= 0.981933
+
+Step 5080, Minibatch Loss= 0.936535, Training Accuracy= 0.982353
+
+Step 5100, Minibatch Loss= 1.027507, Training Accuracy= 0.981513
+
+Step 5120, Minibatch Loss= 0.847187, Training Accuracy= 0.982353
+
+Step 5140, Minibatch Loss= 0.858873, Training Accuracy= 0.982353
+
+Step 5160, Minibatch Loss= 1.003639, Training Accuracy= 0.981513
+
+Step 5180, Minibatch Loss= 0.864501, Training Accuracy= 0.982773
+
+Step 5200, Minibatch Loss= 0.832488, Training Accuracy= 0.982353
+
+Step 5220, Minibatch Loss= 0.859498, Training Accuracy= 0.981933
+
+Step 5240, Minibatch Loss= 0.976751, Training Accuracy= 0.981513
+
+Step 5260, Minibatch Loss= 0.907035, Training Accuracy= 0.982353
+
+Step 5280, Minibatch Loss= 0.938381, Training Accuracy= 0.981933
+
+Step 5300, Minibatch Loss= 0.921814, Training Accuracy= 0.981933
+
+Step 5320, Minibatch Loss= 0.902329, Training Accuracy= 0.981513
+
+Step 5340, Minibatch Loss= 0.967853, Training Accuracy= 0.982353
+
+Step 5360, Minibatch Loss= 1.000543, Training Accuracy= 0.982353
+
+Step 5380, Minibatch Loss= 0.872658, Training Accuracy= 0.982353
+
+Step 5400, Minibatch Loss= 0.852250, Training Accuracy= 0.982353
+
+Step 5420, Minibatch Loss= 0.820379, Training Accuracy= 0.981933
+
+Step 5440, Minibatch Loss= 0.838769, Training Accuracy= 0.982353
+
+Step 5460, Minibatch Loss= 1.029916, Training Accuracy= 0.981933
+
+Step 5480, Minibatch Loss= 0.981295, Training Accuracy= 0.982353
+
+Step 5500, Minibatch Loss= 0.837043, Training Accuracy= 0.981933
+
+Step 5520, Minibatch Loss= 0.948715, Training Accuracy= 0.981933
+
+Step 5540, Minibatch Loss= 0.802821, Training Accuracy= 0.981933
+
+Step 5560, Minibatch Loss= 0.944032, Training Accuracy= 0.982773
+
+Step 5580, Minibatch Loss= 0.862117, Training Accuracy= 0.981933
+
+Step 5600, Minibatch Loss= 0.830225, Training Accuracy= 0.982773
+
+Step 5620, Minibatch Loss= 0.768289, Training Accuracy= 0.982353
+
+Step 5640, Minibatch Loss= 0.928859, Training Accuracy= 0.981933
+
+Step 5660, Minibatch Loss= 0.908461, Training Accuracy= 0.982773
+
+Step 5680, Minibatch Loss= 0.826826, Training Accuracy= 0.982773
+
+Step 5700, Minibatch Loss= 0.936113, Training Accuracy= 0.982773
+
+Step 5720, Minibatch Loss= 0.969374, Training Accuracy= 0.981933
+
+Step 5740, Minibatch Loss= 0.880484, Training Accuracy= 0.981513
+
+Step 5760, Minibatch Loss= 0.873222, Training Accuracy= 0.982353
+
+Step 5780, Minibatch Loss= 0.839633, Training Accuracy= 0.981933
+
+Step 5800, Minibatch Loss= 0.928273, Training Accuracy= 0.982353
+
+Step 5820, Minibatch Loss= 0.877661, Training Accuracy= 0.981933
+
+Step 5840, Minibatch Loss= 0.861639, Training Accuracy= 0.982773
+
+Step 5860, Minibatch Loss= 0.828700, Training Accuracy= 0.982353
+
+Step 5880, Minibatch Loss= 0.992309, Training Accuracy= 0.982353
+
+Step 5900, Minibatch Loss= 0.974705, Training Accuracy= 0.982353
+
+Step 5920, Minibatch Loss= 0.972726, Training Accuracy= 0.982353
+
+Step 5940, Minibatch Loss= 1.016515, Training Accuracy= 0.982353
+
+Step 5960, Minibatch Loss= 1.057212, Training Accuracy= 0.981513
+
+Step 5980, Minibatch Loss= 1.000016, Training Accuracy= 0.982353
+
+Step 6000, Minibatch Loss= 0.954637, Training Accuracy= 0.981933
+
+Step 6020, Minibatch Loss= 1.002208, Training Accuracy= 0.981513
+
+Step 6040, Minibatch Loss= 0.862252, Training Accuracy= 0.982353
+
+Step 6060, Minibatch Loss= 0.823692, Training Accuracy= 0.982353
+
+Step 6080, Minibatch Loss= 0.825499, Training Accuracy= 0.982773
+
+Step 6100, Minibatch Loss= 0.976300, Training Accuracy= 0.981933
+
+Step 6120, Minibatch Loss= 0.806088, Training Accuracy= 0.981933
+
+Step 6140, Minibatch Loss= 0.891640, Training Accuracy= 0.981513
+
+Step 6160, Minibatch Loss= 0.852764, Training Accuracy= 0.981933
+
+Step 6180, Minibatch Loss= 0.785021, Training Accuracy= 0.982773
+
+Step 6200, Minibatch Loss= 0.888983, Training Accuracy= 0.981513
+
+Step 6220, Minibatch Loss= 0.914516, Training Accuracy= 0.982773
+
+Step 6240, Minibatch Loss= 0.928538, Training Accuracy= 0.981933
+
+Step 6260, Minibatch Loss= 0.977522, Training Accuracy= 0.981513
+
+Step 6280, Minibatch Loss= 0.886060, Training Accuracy= 0.981513
+
+Step 6300, Minibatch Loss= 1.020797, Training Accuracy= 0.981933
+
+Step 6320, Minibatch Loss= 0.903938, Training Accuracy= 0.981933
+
+Step 6340, Minibatch Loss= 0.913972, Training Accuracy= 0.981933
+
+Step 6360, Minibatch Loss= 0.917404, Training Accuracy= 0.982773
+
+Step 6380, Minibatch Loss= 0.862916, Training Accuracy= 0.982353
+
+Step 6400, Minibatch Loss= 0.844468, Training Accuracy= 0.981933
+
+Step 6420, Minibatch Loss= 0.874829, Training Accuracy= 0.982353
+
+Step 6440, Minibatch Loss= 0.860502, Training Accuracy= 0.982353
+
+Step 6460, Minibatch Loss= 0.860041, Training Accuracy= 0.982353
+
+Step 6480, Minibatch Loss= 0.840852, Training Accuracy= 0.983193
+
+Step 6500, Minibatch Loss= 0.795287, Training Accuracy= 0.981933
+
+Step 6520, Minibatch Loss= 0.777718, Training Accuracy= 0.982773
+
+Step 6540, Minibatch Loss= 0.947981, Training Accuracy= 0.982353
+
+Step 6560, Minibatch Loss= 0.866054, Training Accuracy= 0.982353
+
+Step 6580, Minibatch Loss= 0.796817, Training Accuracy= 0.981933
+
+Step 6600, Minibatch Loss= 0.875747, Training Accuracy= 0.982353
+
+Step 6620, Minibatch Loss= 0.967575, Training Accuracy= 0.982353
+
+Step 6640, Minibatch Loss= 0.945470, Training Accuracy= 0.982353
+
+Step 6660, Minibatch Loss= 0.814543, Training Accuracy= 0.983193
+
+Step 6680, Minibatch Loss= 0.973567, Training Accuracy= 0.981513
+
+Step 6700, Minibatch Loss= 0.921766, Training Accuracy= 0.981933
+
+Step 6720, Minibatch Loss= 0.882020, Training Accuracy= 0.981933
+
+Step 6740, Minibatch Loss= 0.781888, Training Accuracy= 0.982773
+
+Step 6760, Minibatch Loss= 0.898910, Training Accuracy= 0.981513
+
+Step 6780, Minibatch Loss= 0.918216, Training Accuracy= 0.981933
+
+Step 6800, Minibatch Loss= 0.988029, Training Accuracy= 0.981933
+
+Step 6820, Minibatch Loss= 0.949543, Training Accuracy= 0.982353
+
+Step 6840, Minibatch Loss= 0.839055, Training Accuracy= 0.982353
+
+Step 6860, Minibatch Loss= 0.909935, Training Accuracy= 0.981933
+
+Step 6880, Minibatch Loss= 0.761775, Training Accuracy= 0.981933
+
+Step 6900, Minibatch Loss= 0.866807, Training Accuracy= 0.981513
+
+Step 6920, Minibatch Loss= 0.777255, Training Accuracy= 0.982773
+
+Step 6940, Minibatch Loss= 0.914003, Training Accuracy= 0.981933
+
+Step 6960, Minibatch Loss= 0.815531, Training Accuracy= 0.981933
+
+Step 6980, Minibatch Loss= 0.925503, Training Accuracy= 0.981513
+
+Step 7000, Minibatch Loss= 0.914573, Training Accuracy= 0.982353
+
+Step 7020, Minibatch Loss= 0.827123, Training Accuracy= 0.982353
+
+Step 7040, Minibatch Loss= 0.881754, Training Accuracy= 0.981933
+
+Step 7060, Minibatch Loss= 0.943656, Training Accuracy= 0.981513
+
+Step 7080, Minibatch Loss= 0.818921, Training Accuracy= 0.981933
+
+Step 7100, Minibatch Loss= 0.947829, Training Accuracy= 0.982353
+
+Step 7120, Minibatch Loss= 0.911053, Training Accuracy= 0.982353
+
+Step 7140, Minibatch Loss= 0.818070, Training Accuracy= 0.981933
+
+Step 7160, Minibatch Loss= 0.884232, Training Accuracy= 0.982353
+
+Step 7180, Minibatch Loss= 0.837012, Training Accuracy= 0.982353
+
+Step 7200, Minibatch Loss= 0.769367, Training Accuracy= 0.981933
+
+Step 7220, Minibatch Loss= 0.732548, Training Accuracy= 0.982353
+
+Step 7240, Minibatch Loss= 0.866805, Training Accuracy= 0.981513
+
+Step 7260, Minibatch Loss= 0.791072, Training Accuracy= 0.981933
+
+Step 7280, Minibatch Loss= 0.869839, Training Accuracy= 0.981513
+
+Step 7300, Minibatch Loss= 0.846912, Training Accuracy= 0.981513
+
+Step 7320, Minibatch Loss= 0.848432, Training Accuracy= 0.982353
+
+Step 7340, Minibatch Loss= 0.946567, Training Accuracy= 0.982353
+
+Step 7360, Minibatch Loss= 0.875580, Training Accuracy= 0.981933
+
+Step 7380, Minibatch Loss= 0.730348, Training Accuracy= 0.982353
+
+Step 7400, Minibatch Loss= 0.825001, Training Accuracy= 0.982353
+
+Step 7420, Minibatch Loss= 0.916448, Training Accuracy= 0.982353
+
+Step 7440, Minibatch Loss= 0.924154, Training Accuracy= 0.982353
+
+Step 7460, Minibatch Loss= 0.822227, Training Accuracy= 0.981933
+
+Step 7480, Minibatch Loss= 0.764423, Training Accuracy= 0.982773
+
+Step 7500, Minibatch Loss= 0.907298, Training Accuracy= 0.982353
+
+Step 7520, Minibatch Loss= 0.798056, Training Accuracy= 0.981933
+
+Step 7540, Minibatch Loss= 0.806145, Training Accuracy= 0.982353
+
+Step 7560, Minibatch Loss= 0.928355, Training Accuracy= 0.981513
+
+Step 7580, Minibatch Loss= 0.828339, Training Accuracy= 0.981513
+
+Step 7600, Minibatch Loss= 0.854842, Training Accuracy= 0.981513
+
+Step 7620, Minibatch Loss= 0.938912, Training Accuracy= 0.981933
+
+Step 7640, Minibatch Loss= 0.803396, Training Accuracy= 0.981933
+
+Step 7660, Minibatch Loss= 0.777148, Training Accuracy= 0.981933
+
+Step 7680, Minibatch Loss= 0.875247, Training Accuracy= 0.981933
+
+Step 7700, Minibatch Loss= 0.815929, Training Accuracy= 0.982353
+
+Step 7720, Minibatch Loss= 0.815533, Training Accuracy= 0.982353
+
+Step 7740, Minibatch Loss= 0.899905, Training Accuracy= 0.982353
+
+Step 7760, Minibatch Loss= 0.922790, Training Accuracy= 0.981513
+
+Step 7780, Minibatch Loss= 0.841378, Training Accuracy= 0.982353
+
+Step 7800, Minibatch Loss= 0.843344, Training Accuracy= 0.981513
+
+Step 7820, Minibatch Loss= 0.771358, Training Accuracy= 0.982773
+
+Step 7840, Minibatch Loss= 0.868227, Training Accuracy= 0.982773
+
+Step 7860, Minibatch Loss= 0.736891, Training Accuracy= 0.982353
+
+Step 7880, Minibatch Loss= 0.819109, Training Accuracy= 0.982353
+
+Step 7900, Minibatch Loss= 0.909174, Training Accuracy= 0.982353
+
+Step 7920, Minibatch Loss= 0.797078, Training Accuracy= 0.983193
+
+Step 7940, Minibatch Loss= 0.798328, Training Accuracy= 0.982353
+
+Step 7960, Minibatch Loss= 0.807197, Training Accuracy= 0.981933
+
+Step 7980, Minibatch Loss= 0.755295, Training Accuracy= 0.982773
+
+Step 8000, Minibatch Loss= 0.796016, Training Accuracy= 0.983193
+
+Step 8020, Minibatch Loss= 0.760940, Training Accuracy= 0.981933
+
+Step 8040, Minibatch Loss= 0.833677, Training Accuracy= 0.982353
+
+Step 8060, Minibatch Loss= 0.859526, Training Accuracy= 0.981933
+
+Step 8080, Minibatch Loss= 0.858863, Training Accuracy= 0.981933
+
+Step 8100, Minibatch Loss= 0.736277, Training Accuracy= 0.982353
+
+Step 8120, Minibatch Loss= 0.873941, Training Accuracy= 0.981933
+
+Step 8140, Minibatch Loss= 0.829213, Training Accuracy= 0.981513
+
+Step 8160, Minibatch Loss= 0.921351, Training Accuracy= 0.981513
+
+Step 8180, Minibatch Loss= 0.889011, Training Accuracy= 0.982353
+
+Step 8200, Minibatch Loss= 0.926179, Training Accuracy= 0.981513
+
+Step 8220, Minibatch Loss= 0.859601, Training Accuracy= 0.981933
+
+Step 8240, Minibatch Loss= 0.793788, Training Accuracy= 0.982353
+
+Step 8260, Minibatch Loss= 0.730452, Training Accuracy= 0.982353
+
+Step 8280, Minibatch Loss= 0.826621, Training Accuracy= 0.982353
+
+Step 8300, Minibatch Loss= 0.854095, Training Accuracy= 0.981933
+
+Step 8320, Minibatch Loss= 0.945149, Training Accuracy= 0.981933
+
+Step 8340, Minibatch Loss= 0.830941, Training Accuracy= 0.982773
+
+Step 8360, Minibatch Loss= 0.841816, Training Accuracy= 0.982773
+
+Step 8380, Minibatch Loss= 0.937882, Training Accuracy= 0.981933
+
+Step 8400, Minibatch Loss= 0.841329, Training Accuracy= 0.982773
+
+Step 8420, Minibatch Loss= 0.919850, Training Accuracy= 0.981513
+
+Step 8440, Minibatch Loss= 0.940668, Training Accuracy= 0.981933
+
+Step 8460, Minibatch Loss= 0.757498, Training Accuracy= 0.982773
+
+Step 8480, Minibatch Loss= 0.716052, Training Accuracy= 0.982353
+
+Step 8500, Minibatch Loss= 0.751399, Training Accuracy= 0.981933
+
+Step 8520, Minibatch Loss= 0.743768, Training Accuracy= 0.982773
+
+Step 8540, Minibatch Loss= 0.826187, Training Accuracy= 0.982773
+
+Step 8560, Minibatch Loss= 0.922120, Training Accuracy= 0.981933
+
+Step 8580, Minibatch Loss= 0.764928, Training Accuracy= 0.981933
+
+Step 8600, Minibatch Loss= 0.780054, Training Accuracy= 0.981933
+
+Step 8620, Minibatch Loss= 0.855004, Training Accuracy= 0.981933
+
+Step 8640, Minibatch Loss= 0.794320, Training Accuracy= 0.982353
+
+Step 8660, Minibatch Loss= 0.702839, Training Accuracy= 0.982353
+
+Step 8680, Minibatch Loss= 0.766756, Training Accuracy= 0.981933
+
+Step 8700, Minibatch Loss= 0.901412, Training Accuracy= 0.981513
+
+Step 8720, Minibatch Loss= 0.818901, Training Accuracy= 0.981513
+
+Step 8740, Minibatch Loss= 0.770980, Training Accuracy= 0.981933
+
+Step 8760, Minibatch Loss= 0.879659, Training Accuracy= 0.982353
+
+Step 8780, Minibatch Loss= 0.775402, Training Accuracy= 0.982353
+
+Step 8800, Minibatch Loss= 0.978440, Training Accuracy= 0.981513
+
+Step 8820, Minibatch Loss= 0.793826, Training Accuracy= 0.982353
+
+Step 8840, Minibatch Loss= 0.816339, Training Accuracy= 0.981513
+
+Step 8860, Minibatch Loss= 0.792307, Training Accuracy= 0.982353
+
+Step 8880, Minibatch Loss= 0.836980, Training Accuracy= 0.982773
+
+Step 8900, Minibatch Loss= 0.713992, Training Accuracy= 0.982353
+
+Step 8920, Minibatch Loss= 0.767329, Training Accuracy= 0.983193
+
+Step 8940, Minibatch Loss= 0.763347, Training Accuracy= 0.981933
+
+Step 8960, Minibatch Loss= 0.854961, Training Accuracy= 0.981933
+
+Step 8980, Minibatch Loss= 0.818302, Training Accuracy= 0.982773
+
+Step 9000, Minibatch Loss= 0.842121, Training Accuracy= 0.981933
+
+Step 9020, Minibatch Loss= 0.793945, Training Accuracy= 0.982353
+
+Step 9040, Minibatch Loss= 0.831805, Training Accuracy= 0.981933
+
+Step 9060, Minibatch Loss= 0.710546, Training Accuracy= 0.982353
+
+Step 9080, Minibatch Loss= 0.848793, Training Accuracy= 0.981933
+
+Step 9100, Minibatch Loss= 0.827283, Training Accuracy= 0.981933
+
+Step 9120, Minibatch Loss= 0.854209, Training Accuracy= 0.981933
+
+Step 9140, Minibatch Loss= 0.747673, Training Accuracy= 0.981933
+
+Step 9160, Minibatch Loss= 0.823084, Training Accuracy= 0.982773
+
+Step 9180, Minibatch Loss= 0.796740, Training Accuracy= 0.982353
+
+Step 9200, Minibatch Loss= 0.830131, Training Accuracy= 0.981933
+
+Step 9220, Minibatch Loss= 0.842158, Training Accuracy= 0.981933
+
+Step 9240, Minibatch Loss= 0.836446, Training Accuracy= 0.981933
+
+Step 9260, Minibatch Loss= 0.701379, Training Accuracy= 0.982353
+
+Step 9280, Minibatch Loss= 0.841127, Training Accuracy= 0.981933
+
+Step 9300, Minibatch Loss= 0.807132, Training Accuracy= 0.981513
+
+Step 9320, Minibatch Loss= 0.889842, Training Accuracy= 0.981513
+
+Step 9340, Minibatch Loss= 0.783879, Training Accuracy= 0.982353
+
+Step 9360, Minibatch Loss= 0.754653, Training Accuracy= 0.981933
+
+Step 9380, Minibatch Loss= 0.798126, Training Accuracy= 0.982353
+
+Step 9400, Minibatch Loss= 0.753907, Training Accuracy= 0.981933
+
+Step 9420, Minibatch Loss= 0.856674, Training Accuracy= 0.982353
+
+Step 9440, Minibatch Loss= 0.797246, Training Accuracy= 0.982353
+
+Step 9460, Minibatch Loss= 0.868269, Training Accuracy= 0.982353
+
+Step 9480, Minibatch Loss= 0.840949, Training Accuracy= 0.981933
+
+Step 9500, Minibatch Loss= 0.756159, Training Accuracy= 0.981933
+
+Step 9520, Minibatch Loss= 0.812457, Training Accuracy= 0.981513
+
+Step 9540, Minibatch Loss= 0.760049, Training Accuracy= 0.981933
+
+Step 9560, Minibatch Loss= 0.821982, Training Accuracy= 0.981933
+
+Step 9580, Minibatch Loss= 0.814638, Training Accuracy= 0.981513
+
+Step 9600, Minibatch Loss= 0.787602, Training Accuracy= 0.982353
+
+Step 9620, Minibatch Loss= 0.859659, Training Accuracy= 0.982353
+
+Step 9640, Minibatch Loss= 0.775505, Training Accuracy= 0.982353
+
+Step 9660, Minibatch Loss= 0.827397, Training Accuracy= 0.981933
+
+Step 9680, Minibatch Loss= 0.902073, Training Accuracy= 0.981933
+
+Step 9700, Minibatch Loss= 0.730421, Training Accuracy= 0.982773
+
+Step 9720, Minibatch Loss= 0.860295, Training Accuracy= 0.982353
+
+Step 9740, Minibatch Loss= 0.859208, Training Accuracy= 0.982353
+
+Step 9760, Minibatch Loss= 0.784589, Training Accuracy= 0.982353
+
+Step 9780, Minibatch Loss= 0.804528, Training Accuracy= 0.982773
+
+Step 9800, Minibatch Loss= 0.899678, Training Accuracy= 0.981933
+
+Step 9820, Minibatch Loss= 0.777422, Training Accuracy= 0.982353
+
+Step 9840, Minibatch Loss= 0.750261, Training Accuracy= 0.981933
+
+Step 9860, Minibatch Loss= 0.709879, Training Accuracy= 0.982353
+
+Step 9880, Minibatch Loss= 0.854242, Training Accuracy= 0.982353
+
+Step 9900, Minibatch Loss= 0.805210, Training Accuracy= 0.981513
+
+Step 9920, Minibatch Loss= 0.820698, Training Accuracy= 0.981933
+
+Step 9940, Minibatch Loss= 0.751356, Training Accuracy= 0.981933
+
+Step 9960, Minibatch Loss= 0.830579, Training Accuracy= 0.981933
+
+Step 9980, Minibatch Loss= 0.889739, Training Accuracy= 0.981933
+
+Step 10000, Minibatch Loss= 0.779588, Training Accuracy= 0.982353
